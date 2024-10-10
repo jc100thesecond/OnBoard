@@ -1,6 +1,6 @@
 ---
 name: "FIRST LAST"
-slack_handle: "@Jade C
+slack_handle: "@Jade C"
 github_handle: "@jc100thesecond"
 tutorial: # Link to the tutorial if you used one
 ---
